@@ -13,3 +13,6 @@ PICO extraction; Evidence-based medicine; TF-IDF; 1-2gram; Soft-margin SVM
 
 4. [Combination of conditional random field with a rule based method in the extraction of PICO elements](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-018-0699-2).
 CRF+rule
+
+5. [A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature](https://www.aclweb.org/anthology/P18-1019).
+Corpus; CRF; BiLSTM+CRF
