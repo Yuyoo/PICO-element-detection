@@ -16,3 +16,6 @@ CRF+rule
 
 5. [A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature.2018](https://www.aclweb.org/anthology/P18-1019).
 Corpus; CRF; BiLSTM+CRF
+
+6. [EBM-NLP:PICO Exctraction](https://ebm-nlp.herokuapp.com/)
+Corpus
